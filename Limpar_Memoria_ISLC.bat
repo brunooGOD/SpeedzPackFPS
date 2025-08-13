@@ -1,0 +1,3 @@
+@echo off
+echo Rodando limpeza de standby memory...
+pause
