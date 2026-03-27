@@ -13,3 +13,6 @@ Win32PrioritySeparation - 26, 38ou 42 (decimal)
 HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile
 ------------------------
 HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Games
+
+🔼PowerShell
+Disable-MMAgent -mc
